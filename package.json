@@ -2,6 +2,6 @@
   "name": "Ff",
   "version": "1.0.0",
   "dependencies": {
-
+    "ramda": "^0.27.1"
   }
 }
